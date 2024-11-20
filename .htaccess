@@ -1,0 +1,4 @@
+ErrorDocument 404 https://error.justwaitforme.de/404/
+ErrorDocument 500 https://error.justwaitforme.de/500/
+ErrorDocument 401 https://error.justwaitforme.de/401/
+ErrorDocument 403 https://error.justwaitforme.de/403/

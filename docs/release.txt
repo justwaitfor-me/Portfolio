@@ -1,0 +1,31 @@
+Initial Release (v1.0.0)
+
+This initial release of the portfolio website project includes the HTML structure, CSS styling, JavaScript functionality, and PHP mail functionality. The project is organized into separate folders for assets, scripts, and PHP files.
+
+Key features and improvements in this initial release:
+
+- HTML structure: The HTML file includes the basic structure of the website, including the header, navigation, sections for About, Services, Portfolio, Testimonials, and Contact, along with the footer.
+
+- CSS styling: The CSS files are organized into separate files for theme, plugins, and custom styles. The theme file includes the basic styling for the website, while the plugins file includes the styling for Bootstrap, Magnific Popup, Swiper, and other plugins. The custom styles file contains additional styling specific to the website.
+
+- JavaScript functionality: The JavaScript files are organized into separate files for functions, populate data, and mail result handling. The functions file includes the basic JavaScript functionality, such as smooth scrolling, preloader, and other utility functions. The populate file is responsible for populating the website content dynamically using JSON data. The mail result file handles the success and error messages for the contact form submission.
+
+- PHP mail functionality: The PHP files are organized into separate files for the mail configuration and the mail result handling. The mail configuration file includes the necessary settings for sending emails using PHPMailer. The mail result file processes the form submission and sends an email using PHPMailer.
+
+- JSON data: The JSON files are organized into separate files for header, navigation, about, services, languages, portfolio, testimonials, contact, and footer content. Each JSON file contains the necessary data for populating the corresponding section of the website.
+
+- Responsive design: The website is designed to be responsive and adapt to different screen sizes, ensuring a seamless user experience on desktop, tablet, and mobile devices.
+
+- Google Maps integration: The website includes a Google Maps section for displaying the location of the company. The map is integrated using the Google Maps API and can be customized with markers, info windows, and other features.
+
+- Smooth scrolling: The website includes smooth scrolling functionality, allowing users to navigate through the sections of the website without jerking or jumping.
+
+- Preloader: The website includes a preloader to provide a loading animation while the website content is being loaded.
+
+- Custom styles: The website includes additional custom styles specific to the design and layout of the website.
+
+- Error handling: The website includes error handling for form submissions, such as displaying success or error messages when the contact form is submitted.
+
+- Accessibility: The website is designed to be accessible and meet WCAG (Web Content Accessibility Guidelines) standards, ensuring that users with disabilities can navigate and interact with the website effectively.
+
+Please note that this initial release is a starting point, and further improvements and enhancements can be made to the website as needed.

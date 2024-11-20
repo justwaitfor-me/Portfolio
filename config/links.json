@@ -1,0 +1,34 @@
+{
+  "links": [
+    {
+      "name": "Portfolio",
+      "url": "https://justwaitforme.de",
+      "icon": "person"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/justwaitfor-me",
+      "icon": "github"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/justwaitfor_me",
+      "icon": "instagram"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/justwaitfor_me",
+      "icon": "twitter"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discordapp.com/users/838093888338133065",
+      "icon": "discord"
+    },
+    {
+      "name": "Paypal",
+      "url": "paypal.me/justwaitforme",
+      "icon": "paypal"
+    }
+  ]
+}
