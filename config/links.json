@@ -6,6 +6,11 @@
       "icon": "person"
     },
     {
+      "name": "Email",
+      "url": "mailto:business@justwaitforme.de",
+      "icon": "envelope"
+    },
+    {
       "name": "Github",
       "url": "https://github.com/justwaitfor-me",
       "icon": "github"
@@ -27,8 +32,13 @@
     },
     {
       "name": "Paypal",
-      "url": "paypal.me/justwaitforme",
+      "url": "https://paypal.me/justwaitforme",
       "icon": "paypal"
+    },
+    {
+      "name": "Patreon",
+      "url": "https://patreon.com/JustWait",
+      "icon": "patreon"
     }
   ]
 }
