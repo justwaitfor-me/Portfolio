@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "charset": "utf-8",
+    "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+    "description": "JustWait's Portfolio Website",
+    "keywords": "Diego Reim, JustWait, Development, Portfolio, FUllstack, Python, Web, Dataanalysis, Freelancer, opnesource"
+  },
+  "title": "JustWait's Portfolio",
+  "header": {
+    "logo": "JustWait",
+    "nav_links": [
+      { "id": "about", "label": "About" },
+      { "id": "services", "label": "Services" },
+      { "id": "portfolio", "label": "Portfolio" },
+      { "id": "testimonial", "label": "Testimonial" },
+      { "id": "contact", "label": "Contact" }
+    ]
+  },
+  "hero": {
+    "heading": "JustWait",
+    "titel": "Diego Reim",
+    "image": "src/assets/images/hero-avatar.gif"
+  },
+  "about": {
+    "biography": "I'm a developer focused on web applications and open-source projects. My main project, PersonalityLib, allows people to share their personality and connect with others. Python is my go-to language, and I'm currently learning Node.js and C to expand my skills.",
+    "skills": [
+      "Web Development",
+      "Data Analysis",
+      "Discord Bots",
+      "Backend Development",
+      "Plugin Development",
+      "Open-Source Projects",
+      "Network applications"
+    ],
+    "connect_links": [
+      { "platform": "https://github.com/justwaitfor-me", "icon": "bi-github" },
+      { "platform": "https://x.com/justwaitfordev", "icon": "bi-twitter" },
+      {
+        "platform": "https://www.instagram.com/justwaitfor_me/",
+        "icon": "bi-instagram"
+      },
+      { "platform": "https://discordapp.com/users/838093888338133065", "icon": "bi-discord" }
+    ],
+    "projects_done": "100+",
+    "years_experience": "5+",
+    "worldwide_clients": 3
+  },
+  "services": [
+    {
+      "order": "01",
+      "title": "Discord Bots",
+      "description": "I can create and maintain various Discord bots for my clients. From personalized roleplay games to utility bots, I'm always here to help."
+    },
+    {
+      "order": "02",
+      "title": "Plugins",
+      "description": "I am able to help you develop plugins with various different languages and applications. I can also help you with bug fixes and troubleshooting."
+    },
+    {
+      "order": "03",
+      "title": "Data Analysis",
+      "description": "Python is my go-to language for data analysis and machine learning. I can help you with data cleaning, preprocessing, and model building."
+    },
+    {
+        "order": "04",
+        "title": "Backend Development",
+        "description": "I can help you develop backend applications with various languages and frameworks. I am flawless with popular frameworks like Django, Flask, and Express."
+    }
+  ],
+  "languages": [
+    "src/assets/images/languages/react.svg",
+    "src/assets/images/languages/python.svg",
+    "src/assets/images/languages/javascript.svg",
+    "src/assets/images/languages/nodejs.svg",
+    "src/assets/images/languages/php.png"
+  ],
+  "portfolio": {
+    "description": "All my favourite projects, showcasing my skills and creativity. All my projects are open-source and can be found on my GitHub page.",
+    "content": [
+      {
+        "title": "PersonalityLib",
+        "categories": ["Web App", "Concept"],
+        "image": "src/assets/images/portfolio-1.jpg",
+        "href": "https://github.com/persolib/personalitylib.com"
+      },
+      {
+        "title": "Decode Things",
+        "categories": ["Libary", "PYthon", "Data Analysis"],
+        "image": "src/assets/images/portfolio-2.jpg",
+        "href": "https://github.com/justwaitfor-me/decode_things"
+      },
+      {
+        "title": "Bootsrap Editor",
+        "categories": ["Web App", "Concept"],
+        "image": "src/assets/images/portfolio-3.jpg",
+        "href": "https://github.com/justwaitfor-me/bootstrap.justwaitforme.de"
+      },
+      {
+        "title": "Casino Discord Bot",
+        "categories": ["Discord Bot", "Game", "PYthon"],
+        "image": "src/assets/images/portfolio-4.jpg",
+        "href": "https://github.com/justwaitfor-me/Casino"
+      },
+      {
+        "title": "Git Initializer",
+        "categories": ["Shell Script", "Utility", "Concept"],
+        "image": "src/assets/images/portfolio-1.jpg",
+        "href": "https://github.com/justwaitfor-me/init"
+      },
+      {
+        "title": "Chatbox",
+        "categories": ["Web App", "Chat", "Concept"],
+        "image": "src/assets/images/portfolio-3.jpg",
+        "href": "https://github.com/justwaitfor-me/chatbox"
+      },
+      {
+        "title": "Coreaccess",
+        "categories": ["Web App", "Utility", "Authentication"],
+        "image": "src/assets/images/portfolio-2.jpg",
+        "href": "https://github.com/justwaitfor-me/coreaccess"
+      }
+    ]
+  },
+  "testimonials": [
+  ],
+  "contact": {
+    "email": "business@justwaitforme.de",
+    "phone": "+49 015781779660"
+  },
+  "footer": {
+    "text": "© 2024 JustWait, All Rights Reserved."
+  }
+}
